@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumbersTrivia</string>
+    <string name="search_loading_label">Search for number %s trivias…</string>
+    <string name="search_result_label">Do you know that number %s</string>
+    <string name="search_error_label">An error has occurred.</string>
+    <string name="main_hint_edit">Type a number</string>
+    <string name="search_button_text">Search</string>
+    <string name="list_title_text">Previous trivias</string>
+    <string name="main_status_start_text">Search for a number</string>
+    <string name="loading_search_text">Search for number trivias...</string>
+</resources>
